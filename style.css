@@ -1,0 +1,56 @@
+.origami{
+border-right: 5ch;
+border-bottom-right-radius: 4ch;
+background-color: aquamarine;
+margin: 10px;
+width: 45ch;
+height: 50ch;
+
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+
+ol{
+    font-family:'Times New Roman', Times, serif;
+    color: purple;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: navy;
+    text-shadow: gray;
+    font-weight: 400;
+    font-size: 20pt;
+    text-align: center;
+    text-shadow: 3px 5px 15px black;
+}
+
+h4{
+    text-align-last: center;
+}
+
+h1{
+font-weight: 800;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+color: indigo; 
+text-align-last: center;
+}
+
+.header{
+    background-color: lightskyblue;
+    border-right-color: black;
+    border-top-color: black;
+    height: 10ch;
+}
+
+
+
+
+
+
+
